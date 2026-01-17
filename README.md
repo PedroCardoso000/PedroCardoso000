@@ -32,9 +32,6 @@
   </a> 
 </div>
 
-### GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroCardoso2&show_icons=true&theme=dark)
 
 ### GitHub Profile Summary Cards:
 
