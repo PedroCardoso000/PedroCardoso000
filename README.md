@@ -31,10 +31,3 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
-
-
-### GitHub Profile Summary Cards:
-
-| Profile Details | Most Used Languages |
-| --- | --- |
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroCardoso2&theme=apprentice) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PedroCardoso2&theme=apprentice) |
