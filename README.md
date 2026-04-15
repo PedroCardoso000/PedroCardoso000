@@ -31,38 +31,6 @@ I have a strong interest in **software architecture**, **distributed systems**, 
 
 ---
 
-## ⚙️ Backend & Infrastructure
-
-* Messaging Systems (RabbitMQ, Kafka)
-* Caching Strategies (Redis)
-* WebSockets (Real-time communication)
-* Reverse Proxy & Networking fundamentals
-* Containerization (Docker)
-* Database Design & Performance
-* Connection Pooling & Indexing
-
----
-
-## 🧩 Design Patterns
-
-**Creational**
-
-* Factory
-* Builder
-
-**Structural**
-
-* Adapter
-* Facade
-
-**Behavioral**
-
-* Strategy
-* Observer
-* Mediator
-
----
-
 ## 💻 Tech Stack
 
 <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
@@ -80,51 +48,6 @@ I have a strong interest in **software architecture**, **distributed systems**, 
 </div>
 
 ---
-
-## 📌 Featured Projects
-
-### 🧾 Split Expenses App
-
-> Mobile app for managing and splitting expenses between users
-
-* Architecture: Clean Architecture + REST API
-* Features: Authentication, shared expenses, balance tracking
-* Frontend: React Native
-* Backend: Scalable API design
-
----
-
-### 💬 Real-Time Chat System
-
-> Scalable messaging system using WebSockets and message brokers
-
-* WebSocket communication (real-time)
-* Message broker integration (event-driven)
-* Chat rooms and user session handling
-* Designed for horizontal scalability
-
----
-
-### 🛒 E-commerce System (Modular Monolith)
-
-> High-performance e-commerce backend with strong architectural patterns
-
-* Architecture: DDD + Clean Architecture
-* Patterns: Outbox, modular boundaries
-* Tech: .NET, Docker
-* Focus: scalability, maintainability, and consistency
-
----
-
-## 📈 What I Care About
-
-* Writing **clean, readable, and maintainable code**
-* Designing systems that **scale and evolve**
-* Understanding **how things work under the hood**
-* Applying **engineering principles over hype**
-
----
-
 ## 📫 Contact
 
 <div> 
