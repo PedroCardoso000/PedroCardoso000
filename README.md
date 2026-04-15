@@ -54,10 +54,10 @@ I have a strong interest in **software architecture**, **distributed systems**, 
   <a href="https://www.instagram.com/pedrocrd_/?next=%2F" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a> 
-  <a href="mailto:www.pedrolucascardoso@gmail.com">
+  <a href="mailto:pedrocardosodeveloper@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/pedro-lucas-cardoso-0036b5262/" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-lucas-cardoso/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
